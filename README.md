@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osman Isse</h1>
 <h3 align="center">Software Engineer | Passionate about Code and Problem Solving</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osman728" alt="osman728" /></a> </p>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 📫 How to reach me **osmanisse29@gmail.com**
-
-<h1 align="center">Hi 👋, I'm Osman Isse</h1>
-<h3 align="center">Software Engineer | Passionate about Code and Problem Solving</h3>
-
 - 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **osmanisse29@gmail.com**
